@@ -5,4 +5,4 @@ function updateObjectWithKeyAndValue(object, key, value) {
 }
 
 
-updateObjectWithKeyAndValue(recipes, cheese, eggs)
+updateObjectWithKeyAndValue(recipes, 'cheese', 'eggs')
